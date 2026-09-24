@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Air-Quality-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Air-Quality-Monitoring?style=flat-square&logo=github" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Air-Quality-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Air-Quality-Monitoring?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Air-Quality-Monitoring/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Air-Quality-Monitoring?style=flat-square&logo=github" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Air-Quality-Monitoring/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Air-Quality-Monitoring?style=flat-square" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Air-Quality-Monitoring/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Air-Quality-Monitoring?style=flat-square" alt="License" /></a>
@@ -95,7 +95,7 @@ Official open-source C++ library to calculate VOC and NOx indices for Sensirion 
 Contributions are welcome! Please follow these simple guidelines:
 1. Fork this repository.
 2. Add your entry to `README.md` following the tabular format for SaaS or bullet format for Open Source.
-3. Ensure pricing details or GitHub repository star badges are verified.
+3. Ensure pricing details or GitHub repository Stars_Badges are verified.
 4. Open a Pull Request with a clear description of the project added.
 
 ---
